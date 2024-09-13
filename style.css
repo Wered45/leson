@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #ffffff;
+}
+.box{
+    border: 2px dashed rgb(30, 255, 0);
+}

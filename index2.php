@@ -7,13 +7,13 @@
 
 
 <form action="/obr.php" method="post">
-Имя <input type="text" name="name">
+параметр 1 <input type="text" name="param1">
 <br>
-Фамилия  <input type="text" name="famili">
+параметр 2 <input type="text" name="param2">
 <br>
-Логин  <input type = "text" name="login">
+параметр 3 <input type = "text" name="param3">
 <br>
-Почта <input type = "email" name = "email">
+параметр 4 <input type = "text" name = "param4">
 <br>
 <button>отправить</button>
 </form>
